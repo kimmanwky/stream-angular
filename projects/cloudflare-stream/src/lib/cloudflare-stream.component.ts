@@ -34,6 +34,7 @@ const propertyProps = [
       [attr.src]="src"
       [attr.autoplay]="autoplay"
       [attr.controls]="controls"
+      [attr.currentTime]="currentTime"
       [attr.loop]="loop"
       [attr.preload]="preload"
       [attr.height]="height"
